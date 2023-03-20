@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on De eetbare tuin</title>
+    <title>Categories on Eeuwige moes</title>
     <link>https://gitje.github.io/categories/</link>
-    <description>Recent content in Categories on De eetbare tuin</description>
+    <description>Recent content in Categories on Eeuwige moes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>nl</language><atom:link href="https://gitje.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>nl</language>
+    <lastBuildDate>Fri, 17 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://gitje.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>De eetbare tuin</title>
+      <link>https://gitje.github.io/categories/de-eetbare-tuin/</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gitje.github.io/categories/de-eetbare-tuin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De natuurlijke keuken</title>
+      <link>https://gitje.github.io/categories/de-natuurlijke-keuken/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gitje.github.io/categories/de-natuurlijke-keuken/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De eetbare tuin</title>
+      <link>https://gitje.github.io/categories/de-eetbare-tuin/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gitje.github.io/categories/de-eetbare-tuin/</guid>
+      <description>Hier staan blogs over de tuin.</description>
+    </item>
+    
+    <item>
+      <title>De natuurlijke keuken</title>
+      <link>https://gitje.github.io/categories/de-natuurlijke-keuken/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://gitje.github.io/categories/de-natuurlijke-keuken/</guid>
+      <description>Hier staan blogs over hoe wij onze groenten uit eigen tuin verwerken. Ook vind je hier blogs over het verwerken van rauwe melk, eieren en meel van de molen. In de keuken ben ik vooral op zoek naar basis recepten en efficiente oplossingen om zeveel mogelijk zelfvoorzienend te kunnen zijn in de keuken. Daarnaast zoek ik geschikte manieren om een soms grote oogst te verwerken zodat we er een heel jaar van kunnen genieten.</description>
+    </item>
+    
   </channel>
 </rss>
